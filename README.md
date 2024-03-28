@@ -65,27 +65,36 @@
 </code></pre>
 <!-- /wp:code -->
 
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
 ---
 
+<p><strong>RUN: <a href="https://replit.com/@smartiden8/Broadcast-Bitcoin-Transaction-1?v=1">https://replit.com/@smartiden8/Broadcast-Bitcoin-Transaction-1?v=1</a></strong></p>
+
+---
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+
+
 ![screen_replit](https://github.com/smartiden/Broadcast-Bitcoin-Transaction/blob/main/screen_replit.gif 'screen_replit')
+
+
 ---
 
 <!-- wp:paragraph -->
 <p><a href="https://broad-casts.ru"><strong>Website for Broadcast Bitcoin Transaction:</strong></a> <a href="https://broad-casts.ru" target="_blank" rel="noreferrer noopener">https://broad-casts.ru</a></p>
 <!-- /wp:paragraph -->
+
+---
+
 
 <!-- wp:paragraph -->
 <p>Once the transaction is created, it needs to be broadcasted to the Bitcoin network. This is done by sending the transaction data to one or more Bitcoin nodes. A node is a computer running the Bitcoin software that maintains a copy of the entire Bitcoin blockchain and communicates with other nodes to relay transactions and blocks.</p>
